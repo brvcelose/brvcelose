@@ -1,5 +1,5 @@
-# 👋 Olá, eu sou o Bruce!
-🚀 Desenvolvedor Full-Stack | Python | Java | SpringBoot | React <br/>
+# 👋 Hi there, I am Bruce!
+🚀 Full-Stack Dev | Python | Java | SpringBoot | React <br/>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/welderson-araujo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://welderson-bruce.vercel.app/)
 
