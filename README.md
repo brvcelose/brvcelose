@@ -10,5 +10,5 @@
 
 | Projeto       | Descrição          | Tecnologias |
 | ------------- | ------------------ | ----------- |
-| [Portal Egresso](https://github.com/GiuliaFreulon/portal-egresso) | Um ambiente de conexão com egressos | React (Vite), Java (SpringBoot) |
+| [Portal Egresso](https://portal-egresso-frontend-production.up.railway.app/) | Um ambiente de conexão com egressos | React (Vite), Java (SpringBoot) |
 
